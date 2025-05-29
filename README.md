@@ -49,7 +49,7 @@ b7f4b9323b519d8d5d8c4b6e41bfa9327d4a10a85ec4f3a1a70a5a2029d612a7
 This is a single-file module. You can drop `whirlpool.py` into your project, or install manually:
 
 ```bash
-wget https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/whirlpool.py
+wget https://raw.githubusercontent.com/DJalup/whirlpool.py/main/whirlpool.py
 ```
 
 ---
